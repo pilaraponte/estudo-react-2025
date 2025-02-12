@@ -1,3 +1,7 @@
 .container-demo1{
-    border: 1px solid red;
+    border: 1px solid grey;
+}
+
+.img-dev{
+    width: 35%;
 }
